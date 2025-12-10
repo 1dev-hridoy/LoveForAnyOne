@@ -1,9 +1,7 @@
 <div align="left" style="position: relative;">
 <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>LOVEFORANYONE</h1>
-<p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
+
 <p align="left">
 	<img src="https://img.shields.io/github/license/1dev-hridoy/LoveForAnyOne?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/1dev-hridoy/LoveForAnyOne?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
